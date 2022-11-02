@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\GoogleMapsWPF\GoogleMapsWPF\bin\Debug\GoogleMapsWPF.exe.config
+C:\Users\danie\source\repos\GoogleMapsWPF\GoogleMapsWPF\bin\Debug\GoogleMapsWPF.exe
+C:\Users\danie\source\repos\GoogleMapsWPF\GoogleMapsWPF\bin\Debug\GoogleMapsWPF.pdb
+C:\Users\danie\source\repos\GoogleMapsWPF\GoogleMapsWPF\obj\Debug\GoogleMapsWPF.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\GoogleMapsWPF\GoogleMapsWPF\obj\Debug\GoogleMapsWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\source\repos\GoogleMapsWPF\GoogleMapsWPF\obj\Debug\MainWindow.g.cs
+C:\Users\danie\source\repos\GoogleMapsWPF\GoogleMapsWPF\obj\Debug\App.g.cs
+C:\Users\danie\source\repos\GoogleMapsWPF\GoogleMapsWPF\obj\Debug\GoogleMapsWPF_MarkupCompile.cache
+C:\Users\danie\source\repos\GoogleMapsWPF\GoogleMapsWPF\obj\Debug\GoogleMapsWPF_MarkupCompile.lref
+C:\Users\danie\source\repos\GoogleMapsWPF\GoogleMapsWPF\obj\Debug\MainWindow.baml
+C:\Users\danie\source\repos\GoogleMapsWPF\GoogleMapsWPF\obj\Debug\GoogleMapsWPF.g.resources
+C:\Users\danie\source\repos\GoogleMapsWPF\GoogleMapsWPF\obj\Debug\GoogleMapsWPF.Properties.Resources.resources
+C:\Users\danie\source\repos\GoogleMapsWPF\GoogleMapsWPF\obj\Debug\GoogleMapsWPF.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\GoogleMapsWPF\GoogleMapsWPF\obj\Debug\GoogleMapsWPF.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\GoogleMapsWPF\GoogleMapsWPF\obj\Debug\GoogleMapsWPF.exe
+C:\Users\danie\source\repos\GoogleMapsWPF\GoogleMapsWPF\obj\Debug\GoogleMapsWPF.pdb
